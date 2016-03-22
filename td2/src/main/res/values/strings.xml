@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TD2</string>
+    <string name="txtview1str">Salut Portrait !</string>
+    <string name="txtview2str">Bonjour %1$s Vous avez %2$d messages</string>
+    <string-array name="Jours_semaine">
+        <item>Dimanche</item>
+        <item>Lundi</item>
+        <item>Mardi</item>
+        <item>Mercredi</item>
+        <item>Jeudi</item>
+        <item>Vendrerdi</item>
+        <item>Samedi</item>
+    </string-array>
+</resources>
